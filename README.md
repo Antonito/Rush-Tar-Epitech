@@ -3,4 +3,4 @@ Rush during first year of Epitech
 
 A basic tar program.
 
-Mark : 17
+Mark : 17 / 20
